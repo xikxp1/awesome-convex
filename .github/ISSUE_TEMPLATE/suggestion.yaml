@@ -9,15 +9,15 @@ body:
     id: suggestion
     attributes:
       label: Link to suggestion
-      description: Please share a link to your suggestion
+      description: Please share a link to your suggestion (project, blog post, etc.)
       placeholder: https://...
     validations:
       required: true
   - type: textarea
     id: description
     attributes:
-      label: Describe your suggesiton
+      label: Describe your suggestion
       description: How and why is your suggestion useful to this community?
-      placeholder: I wish to see tool <xyz> here becuase it is used for...
+      placeholder: I wish to add project <xyz> here because it is a good example of...
     validations:
       required: true
