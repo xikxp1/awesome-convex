@@ -1,3 +1,5 @@
+<!--lint disable awesome-list-item-->
+
 <div align="center">
 
 <!-- title -->
@@ -36,7 +38,7 @@ A collection of resources for the [Convex](https://www.convex.dev/) database rea
 - [Blogs and Articles](#blogs-and-articles)
 - [Community](#community)
 
-**Legend**: <img src="https://www.convex.dev/favicon.ico" height="11em"/> official resources
+**Legend**: <img src="https://www.convex.dev/favicon.ico" height="12em"/> official resources
 
 <!-- CONTENT -->
 
@@ -44,7 +46,9 @@ A collection of resources for the [Convex](https://www.convex.dev/) database rea
 
 - [Replicate](https://github.com/trestleinc/replicate) - Offline-first sync library using Yjs CRDTs and Convex for real-time data synchronization.
 
-## Official <img src="https://www.convex.dev/favicon.ico" height="16em"/>
+<!--lint enable awesome-list-item-->
+
+## Official
 
 - [Convex Website](https://www.convex.dev)
 - [Convex GitHub Repository](https://github.com/convex-dev)
@@ -57,10 +61,10 @@ A collection of resources for the [Convex](https://www.convex.dev/) database rea
 
 ## Templates
 
-- <img src="https://www.convex.dev/favicon.ico" height="11em"/> [Official Template Directory](https://www.convex.dev/templates)
-- [React Starter Kit](https://github.com/michaelshimeles/react-starter-kit) - React Starter Kit built using React Router v7, Clerk, Convex & Polar.
-- <img src="https://www.convex.dev/favicon.ico" height="11em"/> [Convex TanStack SaaS Starter](https://github.com/get-convex/convex-saas) - A production-ready Convex Stack for your next SaaS application with Stripe integration, TanStack, Resend, Tailwindcss, and shadcn.
-- <img src="https://www.convex.dev/favicon.ico" height="11em"/> [v1 open-source starter kit](https://github.com/get-convex/v1) - An open-source starter kit based on an [open-source starter kit](https://v1.run/) by [Midday](https://midday.ai/). Ported to Convex.
+- <img src="https://www.convex.dev/favicon.ico" height="12em"/> [Official Template Directory](https://www.convex.dev/templates)
+- [React Starter Kit](https://github.com/michaelshimeles/react-starter-kit) - Built using React Router v7, Clerk, Convex & Polar.
+- <img src="https://www.convex.dev/favicon.ico" height="12em"/> [Convex TanStack SaaS Starter](https://github.com/get-convex/convex-saas) - A production-ready Convex Stack for your next SaaS application with Stripe integration, TanStack, Resend, Tailwind CSS, and shadcn.
+- <img src="https://www.convex.dev/favicon.ico" height="12em"/> [v1 open-source starter kit](https://github.com/get-convex/v1) - An open-source starter kit based on an [open-source starter kit](https://v1.run/) by [Midday](https://midday.ai/). Ported to Convex.
 - [TanStack Netlify AI Chat Template](https://github.com/netlify-templates/tanstack-template) - A modern chat template built with TanStack Router, Claude AI, Sentry, and Convex integrations, featuring a clean and responsive interface hosted on Netlify.
 - [Next.js B2B Starter Kit](https://github.com/workos/next-b2b-starter-kit) - A fully functional B2B SaaS template built with Next.js, Stripe, Convex, and WorkOS.
 
@@ -69,7 +73,7 @@ A collection of resources for the [Convex](https://www.convex.dev/) database rea
 Fully fledged open source projects built with Convex.
 
 - [OS Chat](https://github.com/ajanraj/OpenChat) - AI personal chat assistant.
-- [Cortex](https://github.com/SaintNick1214/Project-Cortex) - unified persistent memory system for AI agents.
+- [Cortex](https://github.com/SaintNick1214/Project-Cortex) - Unified persistent memory system for AI agents.
 
 ## Example Projects
 
@@ -77,29 +81,29 @@ Small example projects built to showcase the capabilities of Convex.
 
 - [VibeApps](https://github.com/waynesutton/vibeapps) - Product Hunt / Hacker News Starter Clone.
 - [Notion Clone](https://github.com/adityaphasu/notion-clone) - Simplified Notion Clone.
-- [Google Docs Clone](https://github.com/sanidhyy/google-docs-clone) - Google Docs Clone using Next.js and Convex.
+- [Google Docs Clone](https://github.com/sanidhyy/google-docs-clone) - Implemented using Next.js and Convex.
 
 ## Components
 
-- <img src="https://www.convex.dev/favicon.ico" height="11em"/> [Official Component Directory](https://www.convex.dev/components)
+- <img src="https://www.convex.dev/favicon.ico" height="12em"/> [Official Component Directory](https://www.convex.dev/components)
 - [Replicate](https://github.com/trestleinc/replicate) - Offline-first sync library using Yjs CRDTs and Convex for real-time data synchronization.
 - [Timeline](https://github.com/MeshanKhosla/convex-timeline) - Undo/redo state management with named checkpoints.
-- [Analytics](https://github.com/raideno/convex-analytics) - Agnostic analytics package. Compatible with posthog, discord webhooks, mail alerts, etc.
+- [Analytics](https://github.com/raideno/convex-analytics) - Agnostic analytics package. Compatible with Posthog, Discord webhooks, mail alerts, etc.
 
 ## Frameworks and Tools
 
 - [Confect](https://github.com/rjdellecese/confect) - Framework that deeply integrates Effect with Convex.
-- [Schemets](https://www.schemets.com) - Visaulize your Convex backend with diagrams and talk to it with chatbot.
-- [Convex Panel](https://github.com/robertalv/convex-panel) - React component for monitoring and debugging Convex applications
+- [Schemets](https://www.schemets.com) - Visualize your Convex backend with diagrams and talk to it with chatbot.
+- [Convex Panel](https://github.com/robertalv/convex-panel) - React component for monitoring and debugging Convex applications.
 
 ## Blogs and Articles
 
-- <img src="https://www.convex.dev/favicon.ico" height="11em"/> [Convex Blog](https://stack.convex.dev) - Official Convex Blog.
-- [Building Replicate](https://robelest.com/journal/replicate-local-first) - Story from the creator of [Replicate](https://github.com/trestleinc/replicate) about how they built their local-first sync solution (11/12/2025).
+- <img src="https://www.convex.dev/favicon.ico" height="12em"/> [Convex Blog](https://stack.convex.dev) - Official Convex Blog.
+- [Building Replicate](https://robelest.com/journal/replicate-local-first) - Story from the creator of Replicate about how they built their local-first sync solution (11/12/2025).
 
 ## Community
 
-- <img src="https://www.convex.dev/favicon.ico" height="11em"/> [Convex Champions](https://www.convex.dev/champions) - Champions use Convex to build fast, reliable, and dynamic apps. They support the community through product feedback, design suggestions, and content.
+- <img src="https://www.convex.dev/favicon.ico" height="12em"/> [Convex Champions](https://www.convex.dev/champions) - Champions use Convex to build fast, reliable, and dynamic apps. They support the community through product feedback, design suggestions, and content.
 
 <!-- END CONTENT -->
 
