@@ -1,4 +1,4 @@
-<!--lint disable awesome-list-item-->
+<!--lint disable double-link awesome-list-item-->
 <div align="center">
 
 <!-- title -->
@@ -45,7 +45,8 @@ A collection of resources for the [Convex](https://www.convex.dev) database reac
 
 - [Replicate](https://github.com/trestleinc/replicate) - Offline-first sync library using Yjs CRDTs and Convex for real-time data synchronization.
 
-<!--lint enable awesome-list-item-->
+<!--lint enable double-link awesome-list-item-->
+
 ## Official
 
 - [Convex Website](https://www.convex.dev)
