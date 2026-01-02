@@ -1,5 +1,4 @@
 <!--lint disable awesome-list-item-->
-
 <div align="center">
 
 <!-- title -->
@@ -10,17 +9,17 @@
 
 <!-- subtitle -->
 
-A collection of resources for the [Convex](https://www.convex.dev/) database reactive backend.
+A collection of resources for the [Convex](https://www.convex.dev) database reactive backend.
 
 <!-- image -->
 
-<a href="https://www.convex.dev/" target="_blank" rel="noopener noreferrer">
+<a href="https://www.convex.dev" target="_blank" rel="noopener noreferrer">
   <img src="https://static.convex.dev/logo/convex-logo.svg" width="600"/>
 </a>
 
 <!-- description -->
 
-[Convex](https://www.convex.dev/) is the open-source reactive database designed to make life easy for web app developers, whether human or LLM. Fetch data and perform business logic with strong consistency by writing pure TypeScript.
+[Convex](https://www.convex.dev) is the open-source reactive database designed to make life easy for web app developers, whether human or LLM. Fetch data and perform business logic with strong consistency by writing pure TypeScript.
 
 </div>
 
@@ -47,7 +46,6 @@ A collection of resources for the [Convex](https://www.convex.dev/) database rea
 - [Replicate](https://github.com/trestleinc/replicate) - Offline-first sync library using Yjs CRDTs and Convex for real-time data synchronization.
 
 <!--lint enable awesome-list-item-->
-
 ## Official
 
 - [Convex Website](https://www.convex.dev)
