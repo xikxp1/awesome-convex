@@ -92,6 +92,7 @@ Small example projects built to showcase the capabilities of Convex.
 - [Confect](https://github.com/rjdellecese/confect) - Framework that deeply integrates Effect with Convex.
 - [Schemets](https://www.schemets.com) - Visualize your Convex backend with diagrams and talk to it with chatbot.
 - [Convex Panel](https://github.com/robertalv/convex-panel) - React component for monitoring and debugging Convex applications.
+- [Convex Cache](https://github.com/beepbop-labs/convex-cache) - Library for caching Convex queries on the client and server.
 
 ## Blogs and Articles
 
