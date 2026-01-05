@@ -44,6 +44,7 @@ A collection of resources for the [Convex](https://www.convex.dev) database reac
 ## Featured (new releases)
 
 - [Replicate](https://github.com/trestleinc/replicate) - Offline-first sync library using Yjs CRDTs and Convex for real-time data synchronization.
+- [Convex Navigator](https://github.com/gilhrpenner/convex-navigator) - Convex-aware extension for VS Code/Cursor that simplifies navigation between frontend and backend code.
 
 ## Official
 
@@ -93,6 +94,7 @@ Small example projects built to showcase the capabilities of Convex.
 - [Schemets](https://www.schemets.com) - Visualize your Convex backend with diagrams and talk to it with chatbot.
 - [Convex Panel](https://github.com/robertalv/convex-panel) - React component for monitoring and debugging Convex applications.
 - [Convex Cache](https://github.com/beepbop-labs/convex-cache) - Library for caching Convex queries on the client and server.
+- [Convex Navigator](https://github.com/gilhrpenner/convex-navigator) - Convex-aware extension for VS Code/Cursor that simplifies navigation between frontend and backend code.
 
 ## Blogs and Articles
 
