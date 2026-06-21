@@ -95,6 +95,7 @@ Small example projects built to showcase the capabilities of Convex.
 - [Convex Panel](https://github.com/robertalv/convex-panel) - React component for monitoring and debugging Convex applications.
 - [Convex Cache](https://github.com/beepbop-labs/convex-cache) - Library for caching Convex queries on the client and server.
 - [Convex Navigator](https://github.com/gilhrpenner/convex-navigator) - Convex-aware extension for VS Code/Cursor that simplifies navigation between frontend and backend code.
+- [convex-security](https://github.com/Perufitlife/convex-security) - CLI auditor that probes a Convex deployment for queries/mutations reachable without auth and proves each leak live via the public HTTP API.
 
 ## Blogs and Articles
 
