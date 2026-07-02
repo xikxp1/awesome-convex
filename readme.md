@@ -65,6 +65,7 @@ A collection of resources for the [Convex](https://www.convex.dev) database reac
 - <img src="https://www.convex.dev/favicon.ico" height="12em"/> [v1 open-source starter kit](https://github.com/get-convex/v1) - An open-source starter kit based on an [open-source starter kit](https://v1.run/) by [Midday](https://midday.ai/). Ported to Convex.
 - [TanStack Netlify AI Chat Template](https://github.com/netlify-templates/tanstack-template) - A modern chat template built with TanStack Router, Claude AI, Sentry, and Convex integrations, featuring a clean and responsive interface hosted on Netlify.
 - [Next.js B2B Starter Kit](https://github.com/workos/next-b2b-starter-kit) - A fully functional B2B SaaS template built with Next.js, Stripe, Convex, and WorkOS.
+- [Product Plate](https://github.com/rodrgds/productplate) - Open-source SvelteKit and Convex starter with auth, billing, AI, realtime data, tests, and deployment setup.
 
 ## Open Source Projects
 
